@@ -1,0 +1,2 @@
+# gitignore
+Template of .gitignore
