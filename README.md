@@ -1,2 +1,2 @@
-# gitignore
+# Git Ignore
 Template of .gitignore
